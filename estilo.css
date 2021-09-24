@@ -1,0 +1,39 @@
+*{ margin: 0;
+padding: 0;
+box-sizing: border-box;}
+
+
+
+header, footer{ background-color: cornflowerblue;
+padding: 5px;
+}
+article{ background-color: crimson;
+    padding: 5px;}
+aside{ background-color: darkorange;
+padding: 5px;}
+
+#row{ background-color: darkorchid;
+padding: 5px;}
+
+#imagen{background-color: darkslategray;
+color: white;
+padding: 10px;}
+
+
+
+#formulario{background-color: turquoise;
+color: white; 
+padding: 5px;}
+
+.boot{ background-color: black;
+border: 5px solid blue;
+text-transform: uppercase;
+text-align: center;}
+
+/*BOOTSTRAP 2*/
+.carousel-inner img{ width: 50%;
+margin-left: 350px;}
+h1{text-align: center;}
+.carousel{ background-color: black;}
+
+
